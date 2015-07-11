@@ -1,0 +1,23 @@
+{
+  "name": "dslink-javascript-template-es6",
+  "version": "1.0.0",
+  "description": "A template to kickstart creating a DSLink using the JavaScript SDK, using ES6 and Babel.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/IOT-DSA/dslink-javascript-template-es6.git"
+  },
+  "author": "",
+  "license": "Apache",
+  "bugs": {
+    "url": "https://github.com/IOT-DSA/dslink-javascript-template-es6/issues"
+  },
+  "homepage": "https://github.com/IOT-DSA/dslink-javascript-template-es6",
+  "dependencies": {
+    "babel": "^5.6.14",
+    "dslink": "IOT-DSA/sdk-dslink-javascript#artifacts"
+  }
+}
